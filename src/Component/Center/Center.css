@@ -1,0 +1,29 @@
+.center {
+    position : fixed;
+    top : 0;
+    right : 0;
+    bottom : 0;
+    left : 250px;
+    padding-top : 56px;
+}
+.nav-title {
+    position : fixed;
+    top : 0;
+    right : 0;
+    left : 250px;
+    z-index : 9999;
+    display : flex;
+    height : 56px;
+    padding : 0 40px;
+    overflow : hidden;
+    line-height : 56px;
+    color : #707070;
+    cursor : pointer;
+    background : #fff;
+    box-shadow : 5px 6px 4px rgba(213, 209, 209, 0.5);
+}
+
+.component {
+    /* width : calc(100vw - 450px); */
+    padding : 50px 100px;
+}

@@ -1,0 +1,50 @@
+  .userinfo {
+    display : flex;
+    font-size : 16px;
+    color : rgb(188, 188, 188);
+  }
+
+  .img-container {
+    width : 100px;
+    height : 100px;
+    margin-right : 150px;
+    overflow : hidden;
+    border-radius : 50%;
+    
+  }
+
+  img {
+    width : 100px;
+    height : 100px;
+  }
+
+  .name-container {
+    margin-right : 150px;
+  }
+
+  .name-container div {
+    display : flex;
+    align-items : center;
+    margin-bottom : 50px;
+    
+  }
+
+  .name-container p {
+    margin-right : 20px;
+  }
+
+  .name-container span {
+    margin-left : 20px;
+    color : rgb(139, 139, 248);
+    cursor : pointer;
+  }
+
+  .school-container div {
+      display : flex;
+      align-items : center;
+      margin-bottom : 50px;
+    }
+  .school-container p {
+      margin-right : 20px;
+  }
+

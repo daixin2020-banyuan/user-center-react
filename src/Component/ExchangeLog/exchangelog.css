@@ -1,0 +1,16 @@
+    .exchange-container {
+        box-sizing : border-box;
+        width : 99%;
+        height : 100vh;
+        padding : 15px;
+        overflow : scroll;
+        border : 1px solid rgb(219, 213, 213);
+    
+    }
+    
+    .ex-list-style {
+        display : flex;
+        justify-content : space-between;
+        padding : 10px 0;
+        border-bottom : 1px solid rgb(223, 217, 217);
+    }
